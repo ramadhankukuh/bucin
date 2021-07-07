@@ -1,9 +1,411 @@
-<!DOCTYPE HTML>
+<!}
+else if (window.attachEvent){
+ window.}
+else if (}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+', mouse);
+};
+
+})();
+
+>
 <html>
-<head><title>Hai vi</title>
-<!-- Created By L3M4R1 -->
-<script>alert ('hai')
-alert ('Ini isi hatiku yang sesungguhnya')</script>
+<head><title>Hai Cantik</title>
+<!-- Created By Irsan Wardana -->
+<script>alert ('halo')}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+alert ('aku sayang kamu
+)</script>
+<script language="JavaScript"> 
+
+function tb5_makeArray(n){
+ this.length = n;
+ return <!}
+else if (window.attachEvent){
+ window.}
+else if (}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+', mouse);
+};
+
+})();
+
+>
+<html>
+<head><title>Hai Cantik</title>
+<!-- Created By Adityo Arya -->
+<script>alert ('halo')}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+})();
+
+
+alert ('aku sayang kamu
+)</script>
+<script language="JavaScript"> 
+ 
+function tb5_makeArray(n){
+ this.length = n;
+ return this.length;apa ini
+}<!}
+else if (window.attachEvent){
+ window.}
+else if (}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+!}
+else if (window.attachEvent){
+ window.}
+else if (}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+', mouse);
+};
+
+})();
+
+>
+<html>
+<head><title>Hai sayang</title>
+<!-- Created By Adityo Arya -->
+<script>alert ('halo')}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+alert ('aku sayang kamu
+)</script>
+<script language="JavaScript"> 
+ 
+function tb5_makeArray(n){
+ this.length = n;
+ return this.length;apa ini
+}<!}
+else if (window.attachEvent){
+ window.}
+else if (}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();!}
+else if (window.attachEvent){
+ window.}
+else if (}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+', mouse);
+};
+
+})();
+
+>
+<html>
+<head><title>Hai sayng</title>
+<!-- Created By Adityo Arya -->
+<script>alert ('halo')}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+alert ('aku sayang kamu
+)</script>
+<script language="JavaScript"> 
+ 
+function tb5_makeArray(n){
+ this.length = n;
+ return this.length;apa ini
+}<!}
+else if (window.attachEvent){
+ window.}
+else if (}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+})();
+
+
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+', mouse);
+};<!}
+else if (window.attachEvent){
+ window.}
+else if (}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+', mouse);
+};
+
+})();
+
+>
+<html>
+<head><title>Hai sayng</title>
+<!-- Created By Adityo Arya -->
+<script>alert ('halo')}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+alert ('aku sayang kamu
+)</script>
+<script language="JavaScript"> 
+ 
+function tb5_makeArray(n){
+ this.length = n;
+ return this.length;apa ini
+}<!}
+else if (window.attachEvent){
+ window.}
+else if (}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+', mouse);
+
+})();
+
+>
+<html>
+<head><title>Hai sayng</title>
+<!-- Created By Adityo Arya -->
+<script>alert ('halo')}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+alert ('aku sayang kamu
+)</script>
+<script language="JavaScript"> 
+ 
+function tb5_makeArray(n){
+ this.length = n;
+ return this.length;apa ini
+}
+ <!}
+else if (window.attachEvent){
+ window.}
+else if (}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+', mouse);
+};
+
+})();
+
+>
+<html>
+<head><title>Hai sayng</title>
+<!-- Created By Adityo Arya -->
+<script>alert ('halo')}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+alert ('aku sayang kamu
+)</script>
+<script language="JavaScript"> 
+ 
+function tb5_makeArray(n){
+ this.length = n;
+ 
+})();
+
+
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+', mouse);
+};
+
+})();
+
+>
+<html>
+<head><title>Hai sayng</title>
+<!-- Created By Adityo Arya -->
+<script>alert ('halo')}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+
+alert ('aku sayang kamu
+)</script>
+<script language="JavaScript"> 
+ 
+function tb5_makeArray(n){
+ this.length = n;
+ return this.length;apa ini
+}
+ 
+tb5_messages = new tb5_makeArray(7);
+tb5_messages[0] = "Jalan yuk";
+tb5_messages[1] = "ini pacar aku";
+tb5_messages[2] = "first n forever";
+tb5_messages[3] = "Cantik loh";
+tb5_messages[4] = "Aku sayanggg bangeet ni anak";
+tb5_rptType = 'infinite';
+tb5_rptNbr = 20;ter=2;
+var tb5_currMsg=0;
+var tb5_stsmsg="";
+function tb5_shuffle(arr){
+var k;
+for (i=0; i<arr.length; i++){
+ k = Math.round(Math.random() * (arr.length - i - 1)) + i;
+ temp = arr[i];arr[i]=arr[k];arr[k]=temp;
+}
+return arr;
+}
+tb5_arr = new tb5_makeArray(tb5_messages[tb5_currMsg].length);
+tb5_sts = new tb5_makeArray(tb5_messages[tb5_currMsg].length);
+for (var i=0; i<tb5_messages[tb5_currMsg].length; i++){
+ tb5_arr[i] = i;
+ tb5_sts[i] = "_";
+}
+tb5_arr = tb5_shuffle(tb5_arr);
+function tb5_init(n){
+var k;
+if (n == tb5_arr.length<!DOCTYPE Hhttps://youtu.be/eQJKb8rgoi8TML>
+<html>
+<head><title>Hai sayng</title>
+<!-- Created By Medly -->
+<script>alert ('halo')
+alert ('aku sayang kamu
+)</script>
 <script language="JavaScript"> 
  
 function tb5_makeArray(n){
@@ -12,13 +414,11 @@ function tb5_makeArray(n){
 }
  
 tb5_messages = new tb5_makeArray(7);
-tb5_messages[0] = "Hay Via";
-tb5_messages[1] = "Aku Mau Kamu Tau";
-tb5_messages[2] = "Aku Sayang Sama Kamu";
-tb5_messages[3] = "Aku Serius Vi";
-tb5_messages[4] = "Kamu Mau Ngga Jadi Pacar ku";
-tb5_messages[5] = "Aku berharap kamu menerimanya";
-tb5_messages[6] = "I Love You via!!!";
+tb5_messages[0] = "Mabar Yuk";
+tb5_messages[1] = "Aku pengin ke yasnaya";
+tb5_messages[2] = "Aku pengin kasih lu bot";
+tb5_messages[3] = "Aku pengin kasih lu helm lv3";
+tb5_messages[4] = "Aku mo kasih chicken";
 tb5_rptType = 'infinite';
 tb5_rptNbr = 20;
 tb5_speed = 30;
@@ -45,12 +445,14 @@ function tb5_init(n){
 var k;
 if (n == tb5_arr.length){
  if (tb5_currMsg == tb5_messages.length-1){
+ if ((tb5_rptType == 'finite') && (tb5_counter==tb5_rptNbr)){){
+ if (tb5_currMsg == tb5_messages.length-1){
  if ((tb5_rptType == 'finite') && (tb5_counter==tb5_rptNbr)){
  clearTimeout(tb5_timerID);
  return;
  }
  tb5_counter++;
- tb5_currMsg=0;
+ tb5_curifrMsg=0;
  }
  else{
  tb5_currMsg++;
@@ -83,23 +485,23 @@ function tb5_randomizetitle(){
 tb5_randomizetitle();
  
 </script>
-</br><center><a href="http://L3m4r1.blogspot.com"><img src="https://assets.jalantikus.com/assets/cache/500/346/userfiles/2018/11/15/gambar-anime-romantis-10-3bbdd.jpg"alt="Lolykuu" width="30% atau xpx" height="40% atau ypx"/></a> 
+</br><center><a href=""><img src=""alt="MEDLY" width="30% atau xpx" height="40% atau ypx"/></a> 
 </head>
 <body BGCOLOR="black">
 <center><center>
-<br><font size="6"><font color="red" face="courier new">Touched by:L3M4R1</font>
-<br><br><!-- Created By L3M4R1 -->
-<font size="5"><font color="white" face="courier new">Hai ini dia isi hatiku yang sesungguhnya</font>
-<br><font size="5"><font color="white" face="courier new">Selama ini ku hanya dapat diam dan berdoa kepada Yang Kuasa agar diri mu bisa bersamaku</font>
-<br><font size="5"><font color="white" face="courier new">Namun kali ini Aku ingin mengutarakannya</font>
-<br><font size="5"><font color="white" face="courier new">Mau ga jadi pacarku?!?</font>
-<br><a href="https://api.whatsapp.com/send?phone=6283198529028&text=Ya%20aku%20Mau%20Terima"><input type="button" value="Yes I do" onclick="alert('Thanks yah udah mau trima aku apa ada nya');" style="font size="5"></a><><><><a href="https://api.whatsapp.com/send?phone=6283198529028&text=maaf%20aku%20nggabisa%20Terima"><input type="button" value=" Im sorry" onclick="alert('Baik lah kalau itu mau mu ^_^');" style="font size="5"></a>
-<br><br><br><hr color="red"><!-- Created By L3M4R1 -->
-<font size="4"><font color="white" face="courier new">("Thanks to:")</font>
-<marquee><font size="3"><font color="white" face="courier new">[FCSI-Purbalingga Black Hat-Pekalongan Cyber Ghost-Dark Force Army-Indonesia Cyber Lite-Cyber Patah Hati-Hacker Patah Hati-INSULINDER TEAM-Sora Cyber Team-Cyber Kacang Team-Galau Cyber Team-Never Die AFK Cyber-Dunsanak Cyber Security-Kentang Cyber Security-Lollycorp Team-GHD Cyber Army Team-JancoXploit-N45HT-coizter_team]</marquee>
-<br><br><font size="4.5"><font color="white" face="courier new">My friends:)</font>
-<br><font size="3.5"><font color="white" face="courier new">[Mr.FOX-Brilly4n-0N3FR13ND5-M4RV3L0U5-K3NZO-katenbad-5TUP1D-B0Y- All member Ghost Hunter Illusion]</font>
-<br><br><br><a href="http://m.facebook.com/L3M4R1.go.id"><input type="button" value="Contact me on facebook" onclick="alert('Loading, click ok');""></a>
+<br><font size="6"><font color="red" face="courier new"></font>
+<br><br><!-- Created by iwang -->
+<font size="5"><font color="white" face="courier new">Mau  liat pacar aku gak??</font>
+<br><font size="5"><font color="white" face="courier new">Mau liat pacar akua gak??</font>
+<br><font size="5"><font color="white" face="courier new"Mau liat pacar akua gak??</font>
+<br><font size="5"><font color="white" face="courier new"Mau liat pacar aku  gak???</font>
+<br><a href=""><input type="button" value="Yes I do" onclick="alert(gemo g');" style="font size="5"></a><><><><a href=""><input type="button" value="bohongy" onclick="alert('iyyyyyadahhh');" style="font size="5"></a>
+<br><br><br><hr color="red"><!-- Created By Medly -->
+<font size="4"><font color="white" face="courier new"></font>
+<marquee><font size="3"><font color="white" face="courier new">[MEDLY]</marquee>
+<br><br><font size="4.5"><font color="white" face="courier new">My BOT:)</font>
+<br><font size="3.5"><font color="white" face="courier new">[AKU TUNGGU DI YASNAYA HARI INI]</font>
+<br><br><br><a href="><input type="button" value="Contact me on facebook" onclick="alert('Loading, click ok');""></a>
 </body>
 <style type="text/css">
 body, a:hover {cursor: url(http://cur.cursors-4u.net/cursors/cur-9/cur862.ani), url(http://cur.cursors-4u.net/cursors/cur-9/cur862.png), progress !important; 
@@ -127,7 +529,7 @@ position: absolute;top: 0;left: 0;z-index: 3000;cursor: default;}
 ;(function(){
 
 
-var msg = " Love you via:*";
+var msg = " Love you Alya:*";
 
 var size = 15;
 
@@ -220,7 +622,3 @@ else if (window.attachEvent){
 
 })();
 
-</script>
-<!-- copyright@2k19 by L3M4R1 --> <!-- Tolong jangan hapus copyright nya yah :v tolong hargai karya saya L3M4R1 -->
-<iframe width="0%" height="0" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/314301457&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</html>
